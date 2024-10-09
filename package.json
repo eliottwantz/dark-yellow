@@ -1,0 +1,21 @@
+{
+  "name": "dark-yellow",
+  "displayName": "dark-yellow",
+  "description": "Simple dark & yellow theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DevEliott-DarkYellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DevEliott-DarkYellow-color-theme.json"
+      }
+    ]
+  }
+}
