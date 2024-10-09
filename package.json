@@ -6,6 +6,16 @@
   "engines": {
     "vscode": "^1.94.0"
   },
+  "publisher": "DevEliott",
+  "author": {
+    "name": "DevEliott"
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "pricing": "Free",
   "categories": [
     "Themes"
   ],
@@ -21,5 +31,7 @@
         "path": "./themes/DevEliott-DarkYellow-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/eliottwantz/dark-yellow/blob/main/README.md"
 }
