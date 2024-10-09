@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliottwantz/dark-yellow.git"
+  },
   "contributes": {
     "themes": [
       {
